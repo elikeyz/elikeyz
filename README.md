@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Elijah Enuem-Udogu, I am a Google Certified Mobile Web Specialist and a full stack web developer. I work with Node JS, React and Angular.
+My name is Elijah Enuem-Udogu, I am a Google Certified Mobile Web Specialist and a full stack web developer. I work with Node JS, React, Next JS and Angular.
 
 - 🌱 I’m currently learning Android development with Java and Kotlin, it's been fun so far.
 
